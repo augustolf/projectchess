@@ -11,8 +11,8 @@ public class LibgdxGame {
         config.title = "Jogo de Exemplo Libgdx";
         config.fullscreen = false;
         config.resizable = false;
-        config.width = 540;
-        config.height = 430;
+        config.width = 800;
+        config.height = 480;
         config.samples = 2;
         config.useGL20 = true;
         
